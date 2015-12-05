@@ -1,0 +1,54 @@
+Algorithm SRT, Memory first fit
+-- average turnaround time: 340.89ms
+-- average wait time: 26.44ms
+-- average CPU burst time: 314.44ms
+-- total number of context switches: 16
+-- total simulation time: 11172ms
+-- total defragmentation time: 0ms
+-- defragmentation percentage: 0.00%
+
+Algorithm SRT, Memory next fit
+-- average turnaround time: 340.89ms
+-- average wait time: 26.44ms
+-- average CPU burst time: 314.44ms
+-- total number of context switches: 16
+-- total simulation time: 11172ms
+-- total defragmentation time: 0ms
+-- defragmentation percentage: 0.00%
+
+Algorithm SRT, Memory Best fit
+-- average turnaround time: 340.89ms
+-- average wait time: 26.44ms
+-- average CPU burst time: 314.44ms
+-- total number of context switches: 16
+-- total simulation time: 11172ms
+-- total defragmentation time: 0ms
+-- defragmentation percentage: 0.00%
+
+Algorithm RR, Memory first fit
+-- average turnaround time: 808.54ms
+-- average wait time: 404.69ms
+-- average CPU burst time: 403.85ms
+-- total number of context switches: 46
+-- total simulation time: 14026ms
+-- total defragmentation time: 0ms
+-- defragmentation percentage: 0.00%
+
+Algorithm RR, Memory next fit
+-- average turnaround time: 1091.62ms
+-- average wait time: 687.77ms
+-- average CPU burst time: 403.85ms
+-- total number of context switches: 46
+-- total simulation time: 15866ms
+-- total defragmentation time: 1840ms
+-- defragmentation percentage: 11.60%
+
+Algorithm RR, Memory Best fit
+-- average turnaround time: 808.54ms
+-- average wait time: 404.69ms
+-- average CPU burst time: 403.85ms
+-- total number of context switches: 46
+-- total simulation time: 14026ms
+-- total defragmentation time: 0ms
+-- defragmentation percentage: 0.00%
+
